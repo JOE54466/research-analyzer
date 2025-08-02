@@ -30,10 +30,10 @@
    cd research-analyzer
 
 2. Install the required libraries
-   pip install -r requirements.txt
+  <pre> pip install -r requirements.txt</pre>
 
 3. Create a `.env` file in the root folder and add your Gemini API key
-   GEMINI_API_KEY=your_actual_api_key_here
+  <pre> GEMINI_API_KEY=your_actual_api_key_here</pre>
 
 4. Start the Flask app
    python app.py
@@ -49,9 +49,9 @@ You can also use it as an API:
 **POST** /summarize
 
 Request Body:
-{
+<pre>{
   "text": "The scientific article or paragraph to summarize"
-}
+}</pre>
 
 Response:
 {
@@ -75,9 +75,9 @@ Response:
 
 # 👤 Author
 
-**Jeet Roy**
+<pre>**Jeet Roy**
 2nd-year student & AI enthusiast
-LinkedIn: [https://www.linkedin.com/in/jeet-roy-25953b324/](https://www.linkedin.com/in/jeet-roy-25953b324/)
+LinkedIn: [https://www.linkedin.com/in/jeet-roy-25953b324/](https://www.linkedin.com/in/jeet-roy-25953b324/)</pre>
 
 
 
