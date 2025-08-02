@@ -62,7 +62,14 @@ Response:
 
 # 📁 Project Structure
  
- <pre> ``` research-analyzer/ ├── app.py ├── .env (not included in Git) ├── requirements.txt ├── templates/ │ └── index.html └── README.md ``` </pre>
+ <pre>''' research-analyzer/
+├── app.py
+├── .env              (not included in Git)
+├── requirements.txt
+├── templates/
+│   └── index.html
+└── README.md'''</pre>
+
 
 
 
