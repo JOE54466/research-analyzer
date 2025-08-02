@@ -61,14 +61,8 @@ Response:
 
 
 # 📁 Project Structure
-
-research-analyzer/
-├── app.py
-├── .env              (not included in Git)
-├── requirements.txt
-├── templates/
-│   └── index.html
-└── README.md
+ 
+ <pre> ```bash research-analyzer/ ├── app.py ├── .env (not included in Git) ├── requirements.txt ├── templates/ │ └── index.html └── README.md ``` </pre>
 
 
 
