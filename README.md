@@ -76,8 +76,8 @@ Response:
 # 👤 Author
 
 Jeet Roy
-2nd-year btech student & AI enthusiast
-LinkedIn: [https://www.linkedin.com/in/jeet-roy-25953b324/](https://www.linkedin.com/in/jeet-roy-25953b324/)</pre>
+(2nd-year btech student & AI enthusiast
+LinkedIn: [www.linkedin.com/in/jeetroy09])
 
 
 
